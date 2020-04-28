@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Video</string>
+    <string name="视频播放器">视频播放器</string>
+    <string name="搜索">搜索</string>
+    <string name="开始">开始</string>
+    <string name="停止">停止</string>
+    <string name="暂停">暂停</string>
+    <string name="返回">返回</string>
+    <string name="减">-</string>
+    <string name="加">+</string>
+    <string name="id">id</string>
+    <string name="name">name</string>
+    <string name="data">data</string>
+</resources>
